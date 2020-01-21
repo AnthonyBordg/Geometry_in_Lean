@@ -8,7 +8,8 @@ An online tutorial by Prof. Kevin Buzzard for beginners (http://wwwf.imperial.ac
 You don't need to know much about tactics in Lean to start working on the preliminary challenges, since they focus on definitions and statements, no proof required.
 
 Please have a look at the `manifold` repository (https://github.com/leanprover-community/mathlib/tree/master/src/geometry/manifold) of the `Mathlib` library (https://github.com/leanprover-community/mathlib), and the corresponding topic `manifolds` on the Zulip chat (https://leanprover.zulipchat.com/#narrow/stream/116395-maths/topic/manifolds).
-Of course, also note that mathlib has in particular a library for algebra (https://github.com/leanprover-community/mathlib/tree/master/src/algebra) and a library for topology (https://github.com/leanprover-community/mathlib/tree/master/src/topology).
+
+Of course, also note that mathlib contains many repositories, especially `algebra`, `linear_algebra` and `topology` which will be useful.
 
 Biliography:
 - Gauge Fields, Knots and Gravity, by John Baez and Javier Muniain.
