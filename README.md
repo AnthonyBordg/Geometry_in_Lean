@@ -13,3 +13,4 @@ Of course, also note that mathlib contains many repositories, especially `algebr
 
 Biliography:
 - Gauge Fields, Knots and Gravity, by John Baez and Javier Muniain.
+- Introduction to Lie groups and Lie algebras, by Alexander Kirillov Jr. (https://www.math.stonybrook.edu/~kirillov/mat552/liegroups.pdf).
