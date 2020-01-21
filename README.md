@@ -5,6 +5,8 @@ The Zulip chat for Lean https://leanprover.zulipchat.com/login/ (for questions, 
 
 An online tutorial by Prof. Kevin Buzzard for complete beginners (http://wwwf.imperial.ac.uk/~buzzard/lean_together/source/leantogether.html).
 
+You don't need to know much about tactics in Lean to start working on the preliminary challenges, since they focus on definitions and statements, no proof required.
+
 Please have a look at the `manifold` repository (https://github.com/leanprover-community/mathlib/tree/master/src/geometry/manifold) of the `Mathlib` library (https://github.com/leanprover-community/mathlib), and the corresponding topic `manifolds` on the Zulip chat (https://leanprover.zulipchat.com/#narrow/stream/116395-maths/topic/manifolds).
 
 Biliography:
