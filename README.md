@@ -1,7 +1,10 @@
 # CMP-2020
+Note that there is a weekly Lean group for Cambridge students every Wednesday at 3 pm in the CMS.
+
 The official webpage of the theorem prover Lean https://leanprover.github.io/ (for download + documentation).  You should use Lean 3.
 
 The Zulip chat for Lean https://leanprover.zulipchat.com/login/ (for questions, beginners welcome). You can start by skimming through the `new-members` stream (https://leanprover.zulipchat.com/#narrow/stream/113489-new-members).
+Note that there is a private stream "cambridge" on the Lean Zulip chat for the students in Cambridge interested in Lean.
 
 An online tutorial by Prof. Kevin Buzzard for beginners (http://wwwf.imperial.ac.uk/~buzzard/lean_together/source/leantogether.html).
 
