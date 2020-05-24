@@ -1,5 +1,7 @@
 # CMP-2020
-Note that there is a weekly Lean group for Cambridge students every Wednesday at 3 pm in the CMS.
+
+The project has a dedicated channel on the Xena project Discord server of Prof. Kevin Buzzard:
+https://discord.com/channels/679792285910827018/714162621603119155
 
 The official webpage of the theorem prover Lean https://leanprover.github.io/ (for download + documentation).  You should use Lean 3.
 
