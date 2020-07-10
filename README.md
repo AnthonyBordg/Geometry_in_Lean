@@ -1,6 +1,6 @@
 # CMP-2020
 
-**Update: Due to the covid-19 pandemic the project is taking place online in a dedicated channel of [The UK MathPhys Society](https://cam-mathphys.zulipchat.com) chat**.
+**Update: Due to the covid-19 pandemic the project is taking place online in a dedicated channel of the [Schrödinger's Chat](https://cam-mathphys.zulipchat.com)**.
 
 The project has also [a dedicated channel](https://discord.com/channels/679792285910827018/714162621603119155) on the Xena project Discord server of Prof. Kevin Buzzard.
 
