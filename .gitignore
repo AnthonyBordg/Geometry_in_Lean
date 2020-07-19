@@ -1,0 +1,3 @@
+*.olean
+/Lie_theory/_target
+/Lie_theory/leanpkg.path
