@@ -1,0 +1,3 @@
+*.olean
+/Accepted_PRs/_target
+/Accepted_PRs/leanpkg.path
