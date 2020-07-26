@@ -3,6 +3,8 @@ import topology.algebra.continuous_functions
 
 variables {α : Type*} {β : Type*} [topological_space α] [topological_space β]
 
+namespace CMP_2020
+
 namespace continuous_functions
 
 variables {f g : {f : α → β | continuous f }}
@@ -21,7 +23,7 @@ In this section we show that continuous functions valued in a topological group 
 the structure of a group.
 -/
 
-@[to_additive continuous_add_comm_group]
+@[to_additive]
 instance continuous_comm_group {α : Type*} {β : Type*} [topological_space α] [topological_space β]
   [comm_group β] [topological_group β] : comm_group { f : α → β | continuous f } :=
 @subtype.comm_group _ _ _ (continuous_subgroup α β) -- infer_instance doesn't work?!
@@ -139,3 +141,5 @@ instance continuous_has_scalar' {α : Type*} [topological_space α]
 end module_over_continuous_functions
 
 end continuous_functions_algebra
+
+end CMP_2020
