@@ -7,7 +7,7 @@ also prove that the product map of two smooth maps (times_cont_diff \top) is smo
 some technical lemmas necessary to do simplifications.
 -/
 
-namespace prod_manifold_PR
+namespace CMP_2020
 
 section analysis__calculus__times_cont_diff
 
@@ -208,4 +208,4 @@ section
 end
 
 
-end prod_manifold_PR
+end CMP_2020

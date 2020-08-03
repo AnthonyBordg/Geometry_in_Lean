@@ -1,8 +1,8 @@
 [package]
 name = "Lie_theory"
 version = "0.1"
-lean_version = "leanprover-community/lean:3.17.1"
+lean_version = "leanprover-community/lean:3.18.4"
 path = "src"
 
 [dependencies]
-mathlib = {git = "https://github.com/leanprover-community/mathlib", rev = "5228d557b4a7a52eba0c9d35bf0cd6830f1939d2"}
+mathlib = {git = "https://github.com/leanprover-community/mathlib", rev = "d3e1f5fb433365a09f636dbb81cf90949129c595"}

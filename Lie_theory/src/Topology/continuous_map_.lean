@@ -1,6 +1,6 @@
 import topology.algebra.continuous_functions
 
-namespace continuous_map_PR
+namespace CMP_2020
 
 /-!
 # Continuous bundled map
@@ -14,18 +14,18 @@ structure continuous_map (α : Type*) (β : Type*)
 (to_fun             : α → β)
 (continuous_to_fun  : continuous to_fun)
 
-notation `C(` α `, ` β `)` := continuous_map α β
+/- notation `C(` α `, ` β `)` := continuous_map α β -/
 
 namespace continuous_map
 
 variables {α : Type*} {β : Type*} [topological_space α] [topological_space β]
 
-instance : has_coe_to_fun (C(α, β)) := ⟨_, continuous_map.to_fun⟩
+/-instance : has_coe_to_fun (C(α, β)) := ⟨_, continuous_map.to_fun⟩-/
 
 variables {α β} {f g : continuous_map α β}
 
-@[ext] theorem ext (H : ∀ x, f x = g x) : f = g :=
-by cases f; cases g; congr'; exact funext H
+/-@[ext] theorem ext (H : ∀ x : α, f x = g x) : f = g :=
+by cases f; cases g; congr'; exact funext H-/
 
 instance [inhabited β] : inhabited C(α, β) :=
 ⟨⟨λ _, default _, continuous_const⟩⟩
@@ -185,4 +185,4 @@ instance continuous_map_module' {α : Type*} [topological_space α]
 
 end continuous_map
 
-end continuous_map_PR
+end CMP_2020
