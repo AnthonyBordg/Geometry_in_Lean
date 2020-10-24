@@ -1,3 +1,6 @@
 *.olean
+*.log
+*.out
+*.aux
 /Lie_theory/_target
 /Lie_theory/leanpkg.path
