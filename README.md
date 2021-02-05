@@ -1,5 +1,5 @@
 # Geometry in Lean
-Author: Nicolò Cavalleri
+Authors: Nicolò Cavalleri under the supervision of Dr. Anthony Bordg
 
 **Update: Due to the covid-19 pandemic the project is taking place online in a dedicated channel of the [Schrödinger's Chat](https://cam-mathphys.zulipchat.com)**.
 
